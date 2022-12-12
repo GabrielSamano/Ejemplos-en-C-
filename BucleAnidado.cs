@@ -6,6 +6,7 @@ namespace MyProgram
   {
     static void Main(string[] args)
     {
+      // Bucle exterior que se complementa con un bucle interior 
       
       for (int i = 1; i <= 2; ++i) 
       {
