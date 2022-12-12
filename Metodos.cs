@@ -6,12 +6,12 @@ namespace Metodo
   {
     static void MyMethod()
     {
-      Console.WriteLine("Llamando al metodo");
+      Console.WriteLine("Llamando al metodo"); // Se crea el metodo con su contenido para despues ser llamado
     }
 
     static void Main(string[] args)
     {
-      MyMethod();
+      MyMethod();  // Se llama al metodo 
     }
   }
 }
